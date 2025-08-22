@@ -33,7 +33,7 @@ Categorical features are **one-hot encoded** to convert text values into numeric
 
 **SalePrice Distribution:**  
 This plot shows the distribution of house prices in the training set. Skewness or outliers can be identified from this.  
-![SalePrice Distribution](saleprice_distribution.png)
+![SalePrice Distribution](images/saleprice_distribution.png)
 
 **Top 10 Features Correlated with SalePrice:**  
 This bar plot shows which features are most positively or negatively correlated with house prices.  
